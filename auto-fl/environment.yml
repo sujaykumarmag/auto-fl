@@ -1,0 +1,9 @@
+name: fl-venv
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - scikit-learn
+  # Add any other dependencies you need for your project
