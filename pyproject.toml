@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.publish]
+name = "pypi"
+username = "__token__"
+password = "pypi-AgENdGVzdC5weXBpLm9yZwIkZjJjZTk4MDktYTFhZS00MmEwLWEzOTAtMmE5MWUwMDlkOGQ3AAIqWzMsImIzNTcyNmVlLTE1ZjAtNDdkZS1iODdhLTEwMjkzYTYxMDI5MCJdAAAGIHLjZLlEzDZyWp2RBbosPrOsdcc0nDsgWA57koaRXFKB"
+
+
+pypi-AgEIcHlwaS5vcmcCJDRlNzhlY2Q4LTM0ODQtNGFhYi05MzU0LWU4MTkxMjgwZDYxOAACKlszLCJkNGMwODk5Yi02MGRmLTRjYWMtYTYwYy02NmM0MWVhMWUzMWMiXQAABiCV5R-0eHoyI42pTOUlsOw9ka5ITmQ8DQyNo01k0lkqOA
