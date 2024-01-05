@@ -17,7 +17,7 @@ This Python package provides a set of tools and utilities for implementing Feder
 ## Installation
 
 ```bash
-pip install autofl
+pip install -i https://test.pypi.org/simple/ autofl
 ```
 
 ## License
@@ -27,15 +27,11 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 
 - The authors of the Federated Learning research papers and implementations that inspired this package.
-- Any other acknowledgments or credits.
 
 ## Contact
 
 For questions or issues, please [open an issue](https://github.com/sujaykumarmag/auto-fl/issues).
 
-**Note:** This README template is just a starting point. Customize it according to your package's specific features, structure, and guidelines.
 
-
-This updated version includes a new section on creating new Federated Learning variations and running simulations with different variations and datasets. Adjust the content as needed for your specific package and use cases.
 
 

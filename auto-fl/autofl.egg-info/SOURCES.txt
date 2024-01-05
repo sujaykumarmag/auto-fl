@@ -1,6 +1,5 @@
 LICENSE
 README.md
-pyproject.toml
 setup.py
 auto-fl/autofl.egg-info/PKG-INFO
 auto-fl/autofl.egg-info/SOURCES.txt
