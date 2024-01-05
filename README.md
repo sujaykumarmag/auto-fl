@@ -1,6 +1,6 @@
 # autofl (Automated Federated Learning) Python Package
 
-![AutoFL](https://assets-global.website-files.com/5d7b77b063a9066d83e1209c/63dd0be289a72c7e01b470ef_local%20model.webp)
+![AutoFL](https://raw.githubusercontent.com/sujaykumarmag/auto-fl/main/fl.png)
 
 ## Overview
 

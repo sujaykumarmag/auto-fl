@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="autofl",
-    version="0.0.21",
+    version="0.0.22",
     description="Federated Learning Package which includes all the variations of FL and can write new simulations",
     package_dir={"": "auto-fl/"},
     packages=find_packages(where="auto-fl/"),
