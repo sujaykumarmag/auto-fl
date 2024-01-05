@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: autofl
-Version: 0.0.21
+Version: 0.0.22
 Summary: Federated Learning Package which includes all the variations of FL and can write new simulations
 Home-page: https://github.com/sujaykumarmag/auto-fl
 Author: SujayKumar Reddy M
@@ -18,7 +18,7 @@ Requires-Dist: twine>=4.0.2; extra == "dev"
 
 # autofl (Automated Federated Learning) Python Package
 
-![AutoFL](./fl.png)
+![AutoFL](https://raw.githubusercontent.com/sujaykumarmag/auto-fl/main/fl.png)
 
 ## Overview
 
